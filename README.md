@@ -1,4 +1,4 @@
-# privateNote
+# safeNotiz
 
 Simple, clean self destructing note site!
 
